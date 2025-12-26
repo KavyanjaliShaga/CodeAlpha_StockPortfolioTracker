@@ -1,0 +1,4 @@
+Stock Portfolio Summary
+STING - Qty: 200, Value: $26000
+
+Total Investment Value: $26000
